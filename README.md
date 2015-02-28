@@ -1,1 +1,1 @@
-# sample_app
+# Kapitel 3: Sample App - Static Pages
